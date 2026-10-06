@@ -1,6 +1,6 @@
 # Miguel Calina App Development Demo
 
-Private portfolio showcase for a Flutter business app originally built as KnockQuest. This copy is intended to demonstrate product design, mobile navigation, deployment workflow, and cross-platform Flutter delivery in a controlled private repository.
+Private product showcase for a Flutter business app originally built as KnockQuest. This copy is intended to demonstrate product design, mobile navigation, deployment workflow, and cross-platform Flutter delivery in a controlled private repository.
 
 ## Overview
 
